@@ -68,7 +68,7 @@ hobbies: ["Listening Music", "Coding", "Gaming"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahrorbek-umrzoqov&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/ahrorbek-umrzoqov/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
