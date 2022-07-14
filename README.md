@@ -19,46 +19,31 @@
 </a>
 </p>
 
-<p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
-
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+name: Ahrorbek Umrzoqov
+located_in: Angren, Uzbekistan
+current_job: Front-End Developer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-Taught Developer",
+    "One Million Uzbek Coders",
+    "Bachelor's in International School of Finance and Technology",
   ]
-company: Soulber
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Frontend developer",
+    
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["HTML, CSS, JavaScript and React.JS"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
+hobbies: ["Listening Music", "Coding", "Gaming"]
 ```
   
 ---  
@@ -90,7 +75,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 ---
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/thepiyushmalhotra">
+<a href="https://github.com/ahrorbek-umrzoqov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepiyushmalhotra&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepiyushmalhotra&theme=noctis_minimus&layout=compact" />
 </a>
